@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Coba dulu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Bujur": 110.148984, "Lintang": -7.877041, "Foto": true }, "geometry": { "type": "Point", "coordinates": [ 110.148984, -7.877041 ] } },
+{ "type": "Feature", "properties": { "Bujur": 110.153594, "Lintang": -7.878431, "Foto": true }, "geometry": { "type": "Point", "coordinates": [ 110.153594, -7.878431 ] } },
+{ "type": "Feature", "properties": { "Bujur": 110.15383, "Lintang": -7.878427, "Foto": true }, "geometry": { "type": "Point", "coordinates": [ 110.15383, -7.878427 ] } }
+]
+}
